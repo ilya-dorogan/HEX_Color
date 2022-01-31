@@ -19,7 +19,7 @@ body {
 .hex-colors h1 {
 	font-size: 4rem;
 	text-transform: uppercase;
-	animation: changecolor 5s infinite alternate;
+	animation: changecolor 8s infinite alternate;
 }
 
 .hex-colors h2 {
